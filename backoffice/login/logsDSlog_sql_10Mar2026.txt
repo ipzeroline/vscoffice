@@ -1,0 +1,12 @@
+ERROR : MySql query failed	IP : 2405:9800:b900:237a:e4e7:a124:d2ac:c538 	DATE/TIME : 10/03/2026 09:0:53 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1773110513, admin_ip_login = '2405:9800:b900:237a:e4e7:a124:d2ac:c538'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b900:237a:e4e7:a124:d2ac:c538 	DATE/TIME : 10/03/2026 09:0:01 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1773110521, admin_ip_login = '2405:9800:b900:237a:e4e7:a124:d2ac:c538'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b900:237a:e4e7:a124:d2ac:c538 	DATE/TIME : 10/03/2026 09:0:17 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1773110597, admin_ip_login = '2405:9800:b900:237a:e4e7:a124:d2ac:c538'  WHERE admin_id = '25'
+MSG ERROR : 
+

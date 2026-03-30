@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : 113.53.89.195 	DATE/TIME : 30/11/2025 10:0:37 h
+SQL ERROR : INSERT INTO slip_salary (emp_id, salary_date, salary_mont, salary_name, salary_salary, salary_list, salary_money_hour, salary_ot_hour, salary_ot, salary_ot_day, salary_otd, salary_ots, salary_works, salary_coms, salary_sums, salary_dis, salary_diss, salary_disn, salary_disnn, salary_kuu, salary_vat, salary_artt, salary_sumdd, salary_yodd) VALUES ('7', '2025-11-30', 'พฤศจิกายน 2568', 'กิตติพันธ์  จันทร์คำ', '18500.00', '1', '77.08333333333333', '1', '77.08333333333333', '1', '616.6666666666666', '693.75', '1', '1', '19193.75', '0', '0', 'เบิกล่วงหน้า', '0', '1', '0', '750.00', '752', '18442.75')
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 113.53.89.195 	DATE/TIME : 30/11/2025 10:0:26 h
+SQL ERROR : INSERT INTO slip_salary (emp_id, salary_date, salary_mont, salary_name, salary_salary, salary_list, salary_money_hour, salary_ot_hour, salary_ot, salary_ot_day, salary_otd, salary_ots, salary_works, salary_coms, salary_sums, salary_dis, salary_diss, salary_disn, salary_disnn, salary_kuu, salary_vat, salary_artt, salary_sumdd, salary_yodd) VALUES ('7', '2025-11-30', 'พฤศจิกายน 2568', 'กิตติพันธ์  จันทร์คำ', '18500.00', 'test', '77.08333333333333', '0', '0', '0', '0', '0', '10', '1', '18509', '0', '0', 'เบิกล่วงหน้า', '0', '0', '0', '750.00', '751', '17759')
+MSG ERROR : 
+

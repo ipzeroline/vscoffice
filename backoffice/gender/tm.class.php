@@ -1,0 +1,53 @@
+<?php
+
+class cCompile
+{
+
+    function __construct($db)
+    {
+        $this->db = $db;
+    }
+
+    function Del()
+    {
+        $this->db->delete(DB_PREFIX . 'gender', array('gender_id' => $_GET['id']));
+        redirect('index.php');
+    }
+
+    function json_edit()
+    {
+        $r = $this->db->record(DB_PREFIX . 'gender', "gender_id='" . $_POST['id'] . "'");
+        $r = $this->db->object2array($r);
+        $my_json = $this->db->js_thai_encode($r);
+
+//$r=var_dump($my_json);
+        echo json_encode($my_json);
+        exit();
+    }
+
+    public function Admin()
+    {
+        $err = array();
+        if (!required($_POST['gender_name'])) $err[] = 'กรุณาระบุคำนำหน้าชื่อค่ะ';
+        if (count($err) > 0) {
+            alert($err);
+            return exit;
+        }
+
+        $data = array(
+            'gender_name' => $_POST['gender_name'],
+        );
+        if (empty($_POST['gender_id'])) {
+            $this->db->insert(DB_PREFIX . 'gender', $data);
+            alert('Insert to complete!');
+        } else {
+            $this->db->update(DB_PREFIX . 'gender', $data, array('gender_id' => $_POST['gender_id']));
+            alert('Update to complete!');
+        }
+
+        redirect('../gender');
+    }
+}
+
+
+?>

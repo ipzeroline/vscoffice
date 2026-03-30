@@ -1,0 +1,896 @@
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:23 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467783, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:27 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467787, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:31 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467791, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:32 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467792, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:33 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467793, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:36 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467796, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:37 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467797, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:42 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467802, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:42 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467802, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467803, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:44 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467804, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:47 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467807, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:47 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467807, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:48 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467808, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:48 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467808, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:50 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467810, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:51 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467811, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:57 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467817, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:59 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467819, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:00 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467820, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:00 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467820, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:02 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467822, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:02 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467822, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:03 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467823, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:09 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467829, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 08:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764467830, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:17 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764469037, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:20 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764469040, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:21 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764469041, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:21 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764469041, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:21 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764469041, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:22 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764469042, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:22 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764469042, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:53 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471353, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:54 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471354, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:22 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471382, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:23 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471383, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:24 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471384, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:24 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471384, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:25 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471385, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:26 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471386, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:27 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471387, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471435, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471436, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471436, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:17 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471437, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2001:44c8:45c0:c72d:dd1a:ea9:fa4a:81d2 	DATE/TIME : 30/11/2025 09:0:19 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471439, admin_ip_login = '2001:44c8:45c0:c72d:dd1a:ea9:fa4a:81d2'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2001:44c8:45c0:c72d:dd1a:ea9:fa4a:81d2 	DATE/TIME : 30/11/2025 09:0:22 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471442, admin_ip_login = '2001:44c8:45c0:c72d:dd1a:ea9:fa4a:81d2'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:24 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471444, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2001:44c8:45c0:c72d:dd1a:ea9:fa4a:81d2 	DATE/TIME : 30/11/2025 09:0:25 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471445, admin_ip_login = '2001:44c8:45c0:c72d:dd1a:ea9:fa4a:81d2'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:26 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471446, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 09:0:26 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471446, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2001:44c8:45c0:c72d:dd1a:ea9:fa4a:81d2 	DATE/TIME : 30/11/2025 09:0:29 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764471449, admin_ip_login = '2001:44c8:45c0:c72d:dd1a:ea9:fa4a:81d2'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:38 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764474998, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:41 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475001, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:41 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475001, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:41 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475001, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:42 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475002, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:42 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475002, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475003, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475003, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:44 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475004, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:44 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475004, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:45 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475005, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:46 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475006, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:47 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475007, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:47 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475007, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:47 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475007, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:48 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475008, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:51 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475011, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:52 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475012, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:52 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475012, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:07 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475027, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:08 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475028, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:08 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475028, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475035, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475035, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:30 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475050, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:31 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475051, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:42 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475062, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475063, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475063, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:45 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475065, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:46 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475066, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:46 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475066, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:46 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475066, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:46 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475066, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:50 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475070, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:53 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475073, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:54 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475074, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:57 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475077, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:31 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475171, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:34 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475174, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:34 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475174, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:35 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475175, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:36 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475176, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:37 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475177, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:38 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475178, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:38 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475178, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:38 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475178, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:38 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475178, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:39 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475179, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:39 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475179, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:39 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475179, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:40 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475180, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:42 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475182, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475183, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475183, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475183, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 10:0:54 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475194, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 11:0:05 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475205, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 11:0:05 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475205, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 11:0:06 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475206, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 11:0:19 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475219, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 11:0:49 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475249, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2405:9800:b910:f85b:2931:aaf:70f0:5fad 	DATE/TIME : 30/11/2025 11:0:25 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475285, admin_ip_login = '2405:9800:b910:f85b:2931:aaf:70f0:5fad'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:7000:22f5:2692:4312 	DATE/TIME : 30/11/2025 11:0:21 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475521, admin_ip_login = '2403:6200:8853:d806:7000:22f5:2692:4312'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:7000:22f5:2692:4312 	DATE/TIME : 30/11/2025 11:0:25 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475525, admin_ip_login = '2403:6200:8853:d806:7000:22f5:2692:4312'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:7000:22f5:2692:4312 	DATE/TIME : 30/11/2025 11:0:28 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475528, admin_ip_login = '2403:6200:8853:d806:7000:22f5:2692:4312'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:7000:22f5:2692:4312 	DATE/TIME : 30/11/2025 11:0:30 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475530, admin_ip_login = '2403:6200:8853:d806:7000:22f5:2692:4312'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:7000:22f5:2692:4312 	DATE/TIME : 30/11/2025 11:0:33 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475533, admin_ip_login = '2403:6200:8853:d806:7000:22f5:2692:4312'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:7000:22f5:2692:4312 	DATE/TIME : 30/11/2025 11:0:34 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475534, admin_ip_login = '2403:6200:8853:d806:7000:22f5:2692:4312'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:06 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475806, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:11 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475811, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:14 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475814, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475815, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475815, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475815, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475815, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475816, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475816, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475816, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475816, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:17 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475817, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:47 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475847, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:49 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475849, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:57 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475857, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:58 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475858, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:58 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475858, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:58 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475858, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:05 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475865, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:05 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475865, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:05 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475865, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:05 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475865, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:06 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475866, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:06 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475866, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:09 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475869, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475870, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475870, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475870, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475870, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475870, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475870, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:11 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475871, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:11 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475871, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:11 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475871, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:11 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475871, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:12 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475872, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:12 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475872, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:12 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475872, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:12 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475872, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:12 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475872, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:13 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475873, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:13 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475873, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:13 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475873, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:13 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475873, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:13 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475873, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:14 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475874, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:14 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475874, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:14 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475874, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:14 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475874, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:14 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475874, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475875, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475875, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475875, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475875, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475875, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475876, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475876, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475876, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475876, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:16 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475876, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:05 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475925, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:06 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475926, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:07 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475927, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:07 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475927, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:07 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475927, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:07 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475927, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:07 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475927, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:08 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475928, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:09 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475929, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:09 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475929, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:09 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475929, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475930, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475930, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475930, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475930, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475930, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:10 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475930, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:11 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475931, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:11 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475931, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:11 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475931, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:11 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475931, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:12 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475932, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:12 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475932, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:12 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475932, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:14 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475934, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:14 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475934, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:14 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475934, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475935, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:15 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475935, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:39 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475959, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:40 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475960, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:40 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475960, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:40 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475960, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:40 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475960, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:40 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475960, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475963, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475963, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475963, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475963, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:43 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764475963, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:36 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764476016, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 2403:6200:8853:d806:79f1:fe46:18ea:cc84 	DATE/TIME : 30/11/2025 11:0:39 h
+SQL ERROR : UPDATE slip_user_admin SET admin_date_login = 1764476019, admin_ip_login = '2403:6200:8853:d806:79f1:fe46:18ea:cc84'  WHERE admin_id = '25'
+MSG ERROR : 
+

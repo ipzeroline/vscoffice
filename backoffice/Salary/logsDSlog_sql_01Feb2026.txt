@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : 125.25.32.225 	DATE/TIME : 01/02/2026 15:0:04 h
+SQL ERROR : UPDATE slip_salary SET emp_id = '57', salary_date = '2025-12-30', salary_mont = 'ธันวาคม 2568', salary_name = 'พงษ์ศักดิ์  ไชยมงคล', salary_salary = '15000.00', salary_list = 'ธันวาคม 2568', salary_money_hour = '63', salary_ot_hour = '0', salary_ot = '0.00', salary_ot_day = '1', salary_otd = '500.00', salary_ots = '500.00', salary_works = '1350.00', salary_coms = '0.00', salary_sums = '16850.00', salary_dis = '1', salary_diss = '500.00', salary_disn = 'เบิกล่วงหน้า', salary_disnn = '0.00', salary_kuu = '0.00', salary_artt = '750.00', salary_sumdd = '1250.00', salary_yodd = '15600.00'  WHERE salary_id='1419'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 125.25.32.225 	DATE/TIME : 01/02/2026 15:0:42 h
+SQL ERROR : UPDATE slip_salary SET emp_id = '57', salary_date = '2025-12-30', salary_mont = 'ธันวาคม 2568', salary_name = 'พงษ์ศักดิ์  ไชยมงคล', salary_salary = '15000.00', salary_list = 'ธันวาคม 2568', salary_money_hour = '63', salary_ot_hour = '0', salary_ot = '0.00', salary_ot_day = '1', salary_otd = '500.00', salary_ots = '500.00', salary_works = '1350.00', salary_coms = '0.00', salary_sums = '16850.00', salary_dis = '1', salary_diss = '500.00', salary_disn = 'เบิกล่วงหน้า', salary_disnn = '0.00', salary_kuu = '0.00', salary_artt = '750.00', salary_sumdd = '1250.00', salary_yodd = '15600.00'  WHERE salary_id='1419'
+MSG ERROR : 
+

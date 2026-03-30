@@ -1,0 +1,8 @@
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 14/01/2026 09:0:24 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '5', emp_first = '1', emp_name = 'กิตติพันธ์  จันทร์คำ', emp_nickname = 'ลี', emp_account = '7870230081 ', emp_bank = 'กรุงไทย', emp_salary = '18500.00', emp_sso = '751.00', emp_born = '2021-10-07--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0808542456', emp_status = '2'  WHERE emp_id='7'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 14/01/2026 09:0:30 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '5', emp_first = '1', emp_name = 'กิตติพันธ์  จันทร์คำ', emp_nickname = 'ลี', emp_account = '7870230081 ', emp_bank = 'กรุงไทย', emp_salary = '18500.00', emp_sso = '751.00', emp_born = '2021-10-07--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0808542456', emp_status = '2'  WHERE emp_id='7'
+MSG ERROR : 
+

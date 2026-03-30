@@ -1,0 +1,124 @@
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:35 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:38 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:44 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:48 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:52 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:11 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '750', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:13 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '750', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:13 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '750', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:14 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '750', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:14 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '750', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:15 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '750', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:10 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:13 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:14 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:15 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:44 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:45 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '13', emp_first = '1', emp_name = 'วีระศักดิ์  บุญศิริ', emp_nickname = 'เบ็นซ์', emp_account = '0741517272  ', emp_bank = 'กสิกรไทย', emp_salary = '15000', emp_sso = '750.00', emp_born = '1997-09-15--', emp_start = '2021-04-01--', emp_mail = '-', emp_tel = '0943678781', emp_status = '2'  WHERE emp_id='35'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:57 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '24', emp_first = '3', emp_name = 'จุฑามาศ  นุ้ยรอด', emp_nickname = 'โบว์', emp_account = '8472100263', emp_bank = 'กสิกรไทย', emp_salary = '40000.00', emp_sso = '875.00', emp_born = '1989-01-12--', emp_start = '2021-09-01--', emp_mail = 'jutamasn99@gmail.com', emp_tel = '0954989393', emp_status = '2'  WHERE emp_id='21'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:00 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '24', emp_first = '3', emp_name = 'จุฑามาศ  นุ้ยรอด', emp_nickname = 'โบว์', emp_account = '8472100263', emp_bank = 'กสิกรไทย', emp_salary = '40000.00', emp_sso = '875.00', emp_born = '1989-01-12--', emp_start = '2021-09-01--', emp_mail = 'jutamasn99@gmail.com', emp_tel = '0954989393', emp_status = '2'  WHERE emp_id='21'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:13 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '24', emp_first = '3', emp_name = 'จุฑามาศ  นุ้ยรอด', emp_nickname = 'โบว์', emp_account = '8472100263', emp_bank = 'กสิกรไทย', emp_salary = '40000.00', emp_sso = '875.00', emp_born = '1989-01-12--', emp_start = '2021-09-01--', emp_mail = 'jutamasn99@gmail.com', emp_tel = '0954989393', emp_status = '2'  WHERE emp_id='21'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:00 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '24', emp_first = '3', emp_name = 'จุฑามาศ  นุ้ยรอด', emp_nickname = 'โบว์', emp_account = '8472100263', emp_bank = 'กสิกรไทย', emp_salary = '40000.00', emp_sso = '875.00', emp_born = '1989-01-12--', emp_start = '2021-09-01--', emp_mail = 'jutamasn99@gmail.com', emp_tel = '0954989393', emp_status = '2'  WHERE emp_id='21'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:00 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '24', emp_first = '3', emp_name = 'จุฑามาศ  นุ้ยรอด', emp_nickname = 'โบว์', emp_account = '8472100263', emp_bank = 'กสิกรไทย', emp_salary = '40000.00', emp_sso = '875.00', emp_born = '1989-01-12--', emp_start = '2021-09-01--', emp_mail = 'jutamasn99@gmail.com', emp_tel = '0954989393', emp_status = '2'  WHERE emp_id='21'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:00 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '24', emp_first = '3', emp_name = 'จุฑามาศ  นุ้ยรอด', emp_nickname = 'โบว์', emp_account = '8472100263', emp_bank = 'กสิกรไทย', emp_salary = '40000.00', emp_sso = '875.00', emp_born = '1989-01-12--', emp_start = '2021-09-01--', emp_mail = 'jutamasn99@gmail.com', emp_tel = '0954989393', emp_status = '2'  WHERE emp_id='21'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:01 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '24', emp_first = '3', emp_name = 'จุฑามาศ  นุ้ยรอด', emp_nickname = 'โบว์', emp_account = '8472100263', emp_bank = 'กสิกรไทย', emp_salary = '40000.00', emp_sso = '875.00', emp_born = '1989-01-12--', emp_start = '2021-09-01--', emp_mail = 'jutamasn99@gmail.com', emp_tel = '0954989393', emp_status = '2'  WHERE emp_id='21'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:04 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '24', emp_first = '3', emp_name = 'จุฑามาศ  นุ้ยรอด', emp_nickname = 'โบว์', emp_account = '8472100263', emp_bank = 'กสิกรไทย', emp_salary = '40000.00', emp_sso = '875.00', emp_born = '1989-01-12--', emp_start = '2021-09-01--', emp_mail = 'jutamasn99@gmail.com', emp_tel = '0954989393', emp_status = '2'  WHERE emp_id='21'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:04 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '24', emp_first = '3', emp_name = 'จุฑามาศ  นุ้ยรอด', emp_nickname = 'โบว์', emp_account = '8472100263', emp_bank = 'กสิกรไทย', emp_salary = '40000.00', emp_sso = '875.00', emp_born = '1989-01-12--', emp_start = '2021-09-01--', emp_mail = 'jutamasn99@gmail.com', emp_tel = '0954989393', emp_status = '2'  WHERE emp_id='21'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:22 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '8', emp_first = '1', emp_name = 'วรเดช   ยางนึก', emp_nickname = 'โบ๊ท', emp_account = '7322436536', emp_bank = 'กสิกรไทย', emp_salary = '52500.00', emp_sso = '875.00', emp_born = '1984-12-25--', emp_start = '2021-06-01--', emp_mail = '-', emp_tel = '0855626503', emp_status = '2'  WHERE emp_id='39'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:24 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '8', emp_first = '1', emp_name = 'วรเดช   ยางนึก', emp_nickname = 'โบ๊ท', emp_account = '7322436536', emp_bank = 'กสิกรไทย', emp_salary = '52500.00', emp_sso = '875.00', emp_born = '1984-12-25--', emp_start = '2021-06-01--', emp_mail = '-', emp_tel = '0855626503', emp_status = '2'  WHERE emp_id='39'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:51 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '8', emp_first = '1', emp_name = 'วรเดช   ยางนึก', emp_nickname = 'โบ๊ท', emp_account = '7322436536', emp_bank = 'กสิกรไทย', emp_salary = '52500.00', emp_sso = '750.00', emp_born = '1984-12-25--', emp_start = '2021-06-01--', emp_mail = '-', emp_tel = '0855626503', emp_status = '2'  WHERE emp_id='39'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:47 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '8', emp_first = '1', emp_name = 'วรเดช   ยางนึก', emp_nickname = 'โบ๊ท', emp_account = '7322436536', emp_bank = 'กสิกรไทย', emp_salary = '52500.00', emp_sso = '750.00', emp_born = '1984-12-25--', emp_start = '2021-06-01--', emp_mail = '-', emp_tel = '0855626503', emp_status = '2'  WHERE emp_id='39'
+MSG ERROR : 
+
+ERROR : MySql query failed	IP : 118.172.50.131 	DATE/TIME : 13/01/2026 14:0:47 h
+SQL ERROR : UPDATE slip_employee SET emp_jobs = '8', emp_first = '1', emp_name = 'วรเดช   ยางนึก', emp_nickname = 'โบ๊ท', emp_account = '7322436536', emp_bank = 'กสิกรไทย', emp_salary = '52500.00', emp_sso = '750.00', emp_born = '1984-12-25--', emp_start = '2021-06-01--', emp_mail = '-', emp_tel = '0855626503', emp_status = '2'  WHERE emp_id='39'
+MSG ERROR : 
+
